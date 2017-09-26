@@ -1,0 +1,5 @@
+﻿  DrawingHandler.cpp
+d:\travaux\infographie\lab3\tp1infographie\drawinghandler.cpp(10): warning C4244: 'argument' : conversion de 'DWORD' en 'float', perte possible de données
+d:\travaux\infographie\lab3\tp1infographie\drawinghandler.cpp(52): warning C4244: '=' : conversion de 'DWORD' en 'float', perte possible de données
+  TP1Infographie.vcxproj -> D:\Travaux\Infographie\Lab3\Debug\TP1Infographie.exe
+  TP1Infographie.vcxproj -> D:\Travaux\Infographie\Lab3\Debug\TP1Infographie.pdb (Partial PDB)
